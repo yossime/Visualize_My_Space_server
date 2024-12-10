@@ -27,7 +27,6 @@ db.sqlite3
 
 # Docker and container-related files
 docker-compose.yml
-Dockerfile
 *.dockerignore
 
 # Testing tools folders
