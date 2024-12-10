@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-cloud-storage
+google-cloud-firestore
+opencv-python
+numpy
+pillow
+python-dotenv
+python-multipart

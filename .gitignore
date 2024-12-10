@@ -1,0 +1,44 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# IDE/editor folders and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# FastAPI specific folders
+instance/
+.pytest_cache/
+*.log
+*.sqlite3
+db.sqlite3
+
+# Docker and container-related files
+docker-compose.yml
+Dockerfile
+*.dockerignore
+
+# Testing tools folders
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables file
+.env
+.history
